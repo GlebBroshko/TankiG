@@ -1,0 +1,16 @@
+{
+  "name": "MultiplayerTanksGame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^7.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "description": ""
+}
